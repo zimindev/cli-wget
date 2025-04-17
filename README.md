@@ -118,4 +118,3 @@ wget -i urls.txt
 
 - `curl` — More flexible for sending HTTP requests  
 - `aria2` — Lightweight multi-protocol & multi-source downloader
-```
