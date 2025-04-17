@@ -1,6 +1,4 @@
-Звичайно! Ось повний вміст гайду по `wget` у Markdown-форматі — ти можеш просто скопіювати його в файл `wget_guide.md`:
 
-```markdown
 # 🌐 `wget` — Non-Interactive Network Downloader
 
 `wget` is a command-line utility for downloading files from the web. It supports HTTP, HTTPS, and FTP protocols and is ideal for downloading files or mirroring entire websites.
@@ -21,6 +19,7 @@
 ## 🔧 Installation
 
 ### On Debian/Ubuntu:
+```bash
 sudo apt update && sudo apt install wget
 ```
 
