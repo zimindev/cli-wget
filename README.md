@@ -21,7 +21,6 @@
 ## 🔧 Installation
 
 ### On Debian/Ubuntu:
-```bash
 sudo apt update && sudo apt install wget
 ```
 
